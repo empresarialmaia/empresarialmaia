@@ -1,5 +1,6 @@
 <h1 align="center">Welcome!</h1>
-<img align="right" src="imagem readme" width="350"/>
+
+<img align="right" src="https://github.com/empresarialmaia/empresarialmaia/assets/141971327/056615ab-adbf-455a-a361-0ad98e76a650" width="333" height="333" alt="QUALITY">
 
 
 
@@ -13,7 +14,8 @@
 
 - ✏️ Estudo constantemente para me manter atualizado com as novidades da área.
 
-- 📧 Contate-me no e-mail: empresarialmaia@gmail.com / empresarialmaia1@gmail.com
+- 📧 Contate-me no e-mail:
+      empresarialmaia@gmail.com / empresarialmaia1@gmail.com
  
 
 #### 💻 Linguagens de Programação 

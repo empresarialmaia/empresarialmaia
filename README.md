@@ -1,4 +1,4 @@
-<h1 align="center">Welcome!</h1><img align="right" src="computer.png" width="350"/>
+<h1 align="center">Welcome!</h1><img align="right" src="" width="350"/>
 
 
 ### Olá, eu sou o Eduardo seja bem vindo ao meu perfil 👋

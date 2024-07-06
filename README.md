@@ -8,7 +8,7 @@
 
       
 
-- 💻 Sou Analista de Testes e Qualidade de Software (QA) com mais de 2 anos de experiência em garantir que aplicativos e sistemas funcionem conforme o esperado e atendam aos padrões de qualidade.
+- 💻 Sou Analista de Testes e Qualidade de Software (QA), responsável por garantir que aplicativos e sistemas funcionem conforme o esperado e atendam aos padrões de qualidade.
 
 - 🐞 Focado em identificar bugs, aprimorar processos de teste e colaborando com equipes de desenvolvimento para entregar produtos impecáveis.
 
